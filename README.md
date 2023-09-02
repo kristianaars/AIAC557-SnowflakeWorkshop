@@ -1,7 +1,7 @@
 This workshop covers the most important features of Snowflake. We will learn how to create and manipulate databases, as well as how to import large datasets. At the end, we will perform a statistical analysis using real life data.
 
 # 0. Download demo file
-Download the demo data from here: [Download the Citibike Ridefile](https://1drv.ms/u/s!AglMzqUexDSxjZtd6-nuemCAsNLdRw?e=T3xMhF)
+Download the demo data from here: [Download the Citibike Ridefile](https://1drv.ms/u/s!AglMzqUexDSxjZteYWBitXwT11SENw?e=KeF8Df)
 
 # 1. Connect to database
 
